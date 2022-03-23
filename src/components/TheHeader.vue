@@ -22,15 +22,10 @@
    <style>
    h1 {
        width: 100%;
-          
-    background: rgb(129, 70, 70);
+         
+    background: yellow;
     
-    color: rgb(255, 255, 255);
+    color:gray;
     text-align: center;
-   }
-
-   p {
-       text-align: center;
-       
    }
    </style>

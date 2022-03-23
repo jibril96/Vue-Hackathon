@@ -10,25 +10,25 @@
 <style>
 .navbar {
   width: 100%;
-  background-color: #555;
+  background-color: green;
   overflow-y: hidden;
   padding: 15px 0;
 }
 
 .navbar a {
   text-align: center;
-  padding: 40px;
-  color: rgb(0, 0, 0);
+  padding: 20px;
+  color: white;
   text-decoration: none;
   font-size: 1.6rem;
 }
 
 .navbar a:hover {
-  background-color: rgb(0, 47, 255);
+  background-color: blue;
 }
 
 .home {
-  background-color: red}
+  background-color: coral}
 
 
 @media screen and (max-width: 750px) {

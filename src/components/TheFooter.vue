@@ -9,9 +9,9 @@ footer {
 
    width: 100%;
     position: fixed;        
-    background: rgb(0, 0, 0);
+    background:white;;
     padding: 15px 0;
-    color: rgb(255, 255, 255);
+    color: lightyellow;
     text-align: center;
     font-size: 1.5rem;
 

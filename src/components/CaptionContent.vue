@@ -1,10 +1,10 @@
 <template>
     <div>
      <slot name="content">
-        <img src="https://images.pexels.com/photos/50594/sea-bay-waterfront-beach-50594.jpeg?cs=srgb&dl=pexels-pixabay-50594.jpg&fm=jpg">;
-     </slot>
+        <img src="https://images.pexels.com/photos/50594/sea-bay-waterfront-beach-50594.jpeg?cs=srgb&d">;
+      </slot>
      <p>
-        <slot name="caption" v-bind:source="source">Caption</slot>
+        <slot name="caption" v-bind:source="source">caption</slot>
      </p>
     </div>
 </template>
@@ -22,9 +22,11 @@ return {
 <style>
 img {
     width: 600px;
+    
 }
 
 p {
-    font-size: 25px;
+    font-size: 20px;
+    color:blue;
 }
 </style>
