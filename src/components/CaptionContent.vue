@@ -21,6 +21,10 @@ return {
 
 <style>
 img {
-    width: 100%;
+    width: 600px;
+}
+
+p {
+    font-size: 25px;
 }
 </style>

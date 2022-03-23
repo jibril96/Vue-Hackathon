@@ -19,7 +19,7 @@
       <TheFooter/>
       <template>
     <footer>
-     <p>&copy; Jibril Adem 2022</p>
+     <p>&copy; Jibril Adem, Hyeju Hong 2022</p>
     </footer>
 </template>
       

@@ -1,6 +1,6 @@
 <template>
-    <footer>
-     <p>&copy; Jibril Adem 2022</p>
+   <footer>
+     <p>&copy; Jibril Adem and Hyeju Hong 2022</p>
     </footer>
 </template>
 
